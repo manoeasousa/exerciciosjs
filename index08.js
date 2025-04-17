@@ -1,6 +1,7 @@
 // Receba três notas e faça a média aritmética.
 
     // utiliza o parsefloat para pegar todas as casas decimais que o usuário vai inserir.
+    // não consigo fazer rodar o programa com prompt e parseFloat. Deve ser o VSC que não deve estar preprado para tal. Não sei.
 
 
 let a = parseFloat (prompt("Digite a primeira nota"))
