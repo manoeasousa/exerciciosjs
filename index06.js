@@ -17,3 +17,4 @@ console.log ("O valor de (5 * 85) é: "+ resultado2);
 console.log ("O valor de (1265 - 154) é: "+ resultado3);
 console.log ("O valor de (1862/2) é: "+ resultado4);
 
+
